@@ -1,3 +1,6 @@
+#Gustavo Antonio de Oliveira - 10337001
+#Oliver de Noronha Rissato - 11375361
+
 from email.charset import QP
 import numpy as np
 from sympy import QQ_python

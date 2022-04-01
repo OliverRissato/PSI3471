@@ -1,3 +1,6 @@
+#Gustavo Antonio de Oliveira - 10337001
+#Oliver de Noronha Rissato - 11375361
+
 #bank_nn.py
 import numpy as np
 from sklearn import neighbors
